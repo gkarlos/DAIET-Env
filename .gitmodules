@@ -1,0 +1,6 @@
+[submodule "DAIET"]
+	path = DAIET
+	url = https://github.com/gkarlos/DAIET
+[submodule "DAIET-MapReduce"]
+	path = DAIET-MapReduce
+	url = https://github.com/gkarlos/DAIET-MapReduce
